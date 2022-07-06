@@ -1,0 +1,100 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    margin: 0px;
+    padding: 0px;
+
+}
+
+.help {
+    text-align: center;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.banner {
+    background-image: url(images/donation9.jpg);
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    filter: blur(20px 20px);
+}
+
+.donate-button {
+    text-decoration: none;
+    background-color: red;
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+
+.donate {
+    text-align: center;
+}
+
+h2 {
+    font-size: 50px;
+}
+
+
+.flexible-container {
+    display: flex;
+    margin-bottom: 50px;
+}
+
+}
+
+.donate-today {
+    color: black;
+}
+
+.main-div {
+    text-align: center;
+}
+
+.our-donate {
+    color: black;
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+li {
+    float: left;
+}
+
+li {
+    display: block;
+    padding: 8px;
+    border: 2px solid;
+    border-radius: 10px;
+
+}
+
+span {
+    color: red;
+
+
+}
+
+.food {
+    width: 50%;
+    margin-right: 15px;
+    padding-left: 5px;
+    border-radius: 15px;
+}
+
+.food-imag {
+    height: 120px;
+    width: 130px;
+}
